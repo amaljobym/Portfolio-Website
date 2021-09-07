@@ -29,7 +29,7 @@ h3{
 }
 
 a{
-	color: #11999E;
+	color: #B97A95;
 }
 
 hr{
@@ -125,7 +125,7 @@ p{
    -webkit-border-radius: 8px;
    -moz-border-radius: 8px;
    border-radius: 8px;
-   color: #FDEFEF;
+   color: #fff;
    font-family: Arial;
    font-size: 18px;
    font-weight: 100;
@@ -153,10 +153,10 @@ p{
 }
 
 .footer-link:hover{
-	color: #B97A95;
+	color: #11999E;
 }
 .copyright{
 	color: #716F81;
 	padding: 20px 10px;
-	font-size: 0.9375rem;
+	font-size: 10px;
 }
